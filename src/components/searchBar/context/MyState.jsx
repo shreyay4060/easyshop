@@ -11,7 +11,7 @@ import {
   QuerySnapshot,
 } from "firebase/firestore";
 import { toast } from "react-hot-toast";
-import { fireDB } from "../firebase/FirebaseConfig";
+import { fireDB } from "../../../firebase/FirebaseConfig";
 
 export default function MyState({ children }) {
 

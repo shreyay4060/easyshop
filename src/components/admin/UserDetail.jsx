@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import myContexts from "../../context/myContexts";
+import myContexts from "../searchBar/context/myContexts";
 
 const UserDetail = () => {
   // getAllUsers from myState

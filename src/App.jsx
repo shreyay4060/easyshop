@@ -12,7 +12,7 @@ import UserDashboard from "./pages/userDashboard/UserDashboard";
 import AdminDashboard from "./pages/adminDashboard/AdminDashboard";
 import AddProductPage from "./pages/adminDashboard/AddProductPage";
 import UpdateProductPage from "./pages/adminDashboard/UpdateProductPage";
-import MyState from "./context/MyState";
+import MyState from "./components/searchBar/context/MyState";
 import { Toaster } from "react-hot-toast";
 import ProtectedRouteForUser from "./protectedRoute/ProtectedRouteForUser";
 import ProtectedRouteForAdmin from "./protectedRoute/ProtectedRouteForAdmin";

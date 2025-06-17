@@ -5,7 +5,7 @@ import Category from '../../components/category/Category'
 import HomePageProductCard from '../../components/homePageProductCard/HomePageProductCard'
 import Track from '../../components/track/Track'
 import Testimonial from '../../components/testimonial/Testimonial'
-import myContexts from '../../context/myContexts'
+import myContexts from '../../components/searchBar/context/myContexts'
 
 export default function HomePage() {
   const { searchedCategory, getAllProduct } = useContext(myContexts);

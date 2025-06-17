@@ -2,7 +2,7 @@
 import { useContext, useState } from "react";
 import Signup from "./Signup"; // Import Signup component (adjust the path if needed)
 import toast from "react-hot-toast";
-import myContexts from "../../context/myContexts";
+import myContexts from "../../components/searchBar/context/myContexts";
 import { useNavigate } from "react-router-dom";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth, fireDB } from "../../firebase/FirebaseConfig";

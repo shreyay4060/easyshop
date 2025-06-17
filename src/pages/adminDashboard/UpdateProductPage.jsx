@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from "react";
-import myContexts from "../../context/myContexts";
+import myContexts from "../../components/searchBar/context/myContexts";
 import { useNavigate, useParams } from "react-router";
 import { doc, getDoc, setDoc, Timestamp } from "firebase/firestore";
 import { fireDB } from "../../firebase/FirebaseConfig";

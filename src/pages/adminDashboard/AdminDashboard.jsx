@@ -5,7 +5,7 @@ import ProductDetail from "../../components/admin/ProductDetail";
 import UserDetail from "../../components/admin/UserDetail";
 import Layout from "../../components/layout/Layout";
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
-import myContexts from "../../context/myContexts";
+import myContexts from "../../components/searchBar/context/myContexts";
 
 function AdminDashboard () {
 

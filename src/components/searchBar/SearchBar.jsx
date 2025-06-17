@@ -1,7 +1,7 @@
 import { useState, useContext } from "react";
 import searchData from "./searchData";
 import SearchIcon from '@mui/icons-material/Search';
-import myContexts from "../../context/myContexts";
+import myContexts from "./context/myContexts";
 
 const SearchBar = () => {
   const [search, setSearch] = useState("");

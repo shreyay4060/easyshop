@@ -11,7 +11,7 @@ import toast from "react-hot-toast";
 import { useContext, useEffect, useState } from "react";
 import BuyNowModal from "../../components/buyNowModal/BuyNowModal";
 import { addDoc, collection, Timestamp } from "firebase/firestore";
-import myContexts from "../../context/myContexts";
+import myContexts from "../../components/searchBar/context/myContexts";
 import { fireDB } from "../../firebase/FirebaseConfig";
 
 function CartPage() {

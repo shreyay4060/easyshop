@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import myContexts from "../../context/myContexts";
+import myContexts from "../searchBar/context/myContexts";
 import Loader from "../loader/Loader";
 
 const OrderDetail = () => {

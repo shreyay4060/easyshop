@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import Layout from "../../components/layout/Layout";
 import Loader from "../../components/loader/Loader";
-import myContexts from "../../context/myContexts";
+import myContexts from "../../components/searchBar/context/myContexts";
 
 const UserDashboard = () => {
   // user
