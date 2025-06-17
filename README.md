@@ -7,7 +7,7 @@ check it out - https://easyshop-ecommerceweb.vercel.app/
 EasyShop is a fully functional and responsive e-commerce web application built using modern frontend technologies. It offers a complete shopping experience with a dynamic cart system, category filters, Firebase authentication, real-time data updates, and an admin dashboard.
 
 ![EasyShop Hero](https://github.com/shreyay4060/ecommerce/blob/main/demo1.png)
-![EasyShop Hero](https://github.com/shreyay4060/ecommerce/blob/main/adminPage.png)
+![EasyShop Hero](https://github.com/shreyay4060/easyshop/blob/main/adminPage.png)
 
 ---
 
